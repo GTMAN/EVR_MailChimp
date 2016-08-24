@@ -6,7 +6,6 @@ Stable tag: 1.00
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This wordpress plugin allows you to create and download a backup of a plugin or your entire plugins directory.
 
 == Description ==
 
